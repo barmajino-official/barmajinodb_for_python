@@ -1,0 +1,149 @@
+{
+  "users": {
+    "id_counter": 14,
+    "id_0": {
+      "first_name": "Ali",
+      "last_name": "Jaafar",
+      "Age": 17,
+      "country": "Yater",
+      "status": "enable",
+      "username": "barmajino",
+      "okok": "9"
+    },
+    "id_1": {
+      "first_name": "Rania",
+      "last_name": "Saleh",
+      "Age": 17,
+      "country": "Zambia",
+      "status": "enable",
+      "username": "raniasalehh",
+      "password": "Rania311314",
+      "okok": "9"
+    },
+    "id_2": {
+      "first_name": "Hassan",
+      "last_name": "Jaafar",
+      "Age": 19,
+      "country": "Yater",
+      "status": "disable",
+      "username": "hasanjaafarr",
+      "password": "Hassan_001",
+      "new": "Ali",
+      "okok": "9"
+    },
+    "id_3": {
+      "first_name": "Jawad",
+      "last_name": "Saleh",
+      "Age": 11,
+      "country": "Yater",
+      "status": "disable",
+      "username": "Jawads",
+      "password": "Jawad_001",
+      "new": "Ali",
+      "okok": "9"
+    },
+    "id_4": {
+      "okok": "9"
+    },
+    "id_5": {
+      "okok": "9"
+    },
+    "id_6": {
+      "okok": "9"
+    },
+    "id_7": {
+      "firstname": "Ali",
+      "lastname": "Jaafar",
+      "Age": 30
+    },
+    "id_8": {
+      "firstname": "Ali",
+      "lastname": "Jaafar",
+      "Age": 30
+    },
+    "id_9": {
+      "firstname": "Ali",
+      "lastname": "Jaafar",
+      "Age": 30
+    },
+    "id_10": {
+      "firstname": "Ali",
+      "lastname": "Jaafar",
+      "Age": 30
+    },
+    "id_11": {
+      "firstname": "Ali",
+      "lastname": "Jaafar",
+      "Age": 30
+    },
+    "id_12": {
+      "firstname": "Ali",
+      "lastname": "Jaafar",
+      "Age": 30
+    },
+    "id_13": {
+      "firstname": "Ali",
+      "lastname": "Jaafar",
+      "Age": 30
+    },
+    "id_14": {
+      "firstname": "Ali",
+      "lastname": "Jaafar",
+      "Age": 30
+    }
+  },
+  "user_permition": {
+    "id_counter": 1,
+    "id_0": {
+      "product": {
+        "read": "enable",
+        "write": "disable"
+      },
+      "users": {
+        "read": "enable",
+        "write": "disable"
+      }
+    },
+    "id_1": {
+      "product": {
+        "read": "enable",
+        "write": "enable"
+      },
+      "users": {
+        "read": "enable",
+        "write": "enable"
+      }
+    }
+  },
+  "product": {
+    "id_counter": 1,
+    "id_0": {
+      "last_edit_by": "id_1",
+      "view": "enable",
+      "info": {
+        "type": "petrole",
+        "name": "mazout",
+        "countti": 500,
+        "price": [
+          1.75,
+          "dollar"
+        ],
+        "stock": "Beirut"
+      }
+    },
+    "id_1": {
+      "last_edit_by": "id_1",
+      "view": "enable",
+      "info": {
+        "type": "electric",
+        "name": "relay",
+        "countti": 1200,
+        "price": [
+          3.2,
+          "dollar"
+        ],
+        "stock": "Beirut"
+      }
+    }
+  }
+}
